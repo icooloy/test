@@ -1,0 +1,6 @@
+@font-face { font-family: 'font_family'; /* project id 1104908 */ src: url('//at.alicdn.com/t/font_1104908_gdf9irywy7p.eot'); src: url('//at.alicdn.com/t/font_1104908_gdf9irywy7p.eot?#iefix') format('embedded-opentype'), url('//at.alicdn.com/t/font_1104908_gdf9irywy7p.woff2') format('woff2'), url('//at.alicdn.com/t/font_1104908_gdf9irywy7p.woff') format('woff'), url('//at.alicdn.com/t/font_1104908_gdf9irywy7p.ttf') format('truetype'), url('//at.alicdn.com/t/font_1104908_gdf9irywy7p.svg#font_family') format('svg'); }
+body, figure, h1, h2, h3, html, li, nav, p, ul, li{ padding: 0; margin: 0; }
+ul, li{ list-style: none; }
+a{ text-decoration: none; }
+img{ max-width: 100% !important; }
+
